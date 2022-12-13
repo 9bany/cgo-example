@@ -1,4 +1,4 @@
-package gocallback
+package main
 
 import "fmt"
 
